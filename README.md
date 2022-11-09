@@ -1,2 +1,2 @@
-# Tic-Tac-Toe
-This website simulates a Tic-Tac-Toe game versus the computer.
+# Rock-Paper-Scissors
+This website simulates a Rock-Paper-Scissors game versus the computer.
